@@ -19,6 +19,5 @@ public class PrimeNum {
         }
         return true;
     }
-}
-git add PrimeNum.java     
+}    
 
